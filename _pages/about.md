@@ -1,8 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-header:
-    image: "/images/almond.jpg"
+# header:
+#     image: "/images/almond.jpg"
 ---
 
 <!-- {% include base_path %}
