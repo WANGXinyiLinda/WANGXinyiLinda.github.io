@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "assets/images/almond.jpg"
+    image: "images/almond.jpg"
 ---
 
 {% include base_path %}

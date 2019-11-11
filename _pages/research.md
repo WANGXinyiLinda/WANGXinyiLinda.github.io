@@ -4,7 +4,7 @@ permalink: /research/
 title: "Research"
 author_profile: true
 header:
-    image: "assets/images/hkust_sunset2.jpg"
+    image: "images/hkust_sunset2.jpg"
 ---
 
 {% include base_path %}
