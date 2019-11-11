@@ -4,7 +4,8 @@ permalink: /research/
 title: "Research"
 author_profile: true
 header:
-    image: "/images/hkust_sunset2.jpg"
+    image: "https://github.com/WANGXinyiLinda/WANGXinyiLinda.github.io/images/hkust_sunset2.jpg"
+---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}

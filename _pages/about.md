@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/almond.jpg"
+    image: "https://github.com/WANGXinyiLinda/WANGXinyiLinda.github.io/images/almond.jpg"
 ---
 
 {% include base_path %}
