@@ -114,7 +114,7 @@ author:
   email            : xwangcs@ust.hk
   links:
     - label: "Email"
-      icon: "xwangcs@ust.hk"
+      icon: "fas fa-fw fa-envelope-square"
       # url: mailto:xwangcs@ust.hk
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/WANGXinyiLinda"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/WANGXinyiLinda"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -292,5 +292,12 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  # _pages
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+             
 theme: jekyll-theme-cayman
