@@ -29,4 +29,4 @@ I'm a final year HKUST student majoring in applied mathematics and computer scie
 ## Recent Research
 
 **Neural Topic Model with Attention for Supervised Learning** (Under review for AISTATS 2020)
-  Xinyi Wang, Yi Yang. \[[paper](https://drive.google.com/open?id=1hILZvbua-TlNHQ9It-mib-23HI1JBFo6)\]
+* Xinyi Wang, Yi Yang. \[[paper](https://drive.google.com/open?id=1hILZvbua-TlNHQ9It-mib-23HI1JBFo6)\]
