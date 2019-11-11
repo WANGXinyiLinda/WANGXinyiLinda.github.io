@@ -112,11 +112,10 @@ author:
   bio              : "Final year HKUST undergraduate student majoring in applied math and computer science."
   location         : "Los Angeles, CA / Hong Kong"
   email            : xwangcs@ust.hk
-  gitHub           : https://github.com/WANGXinyiLinda
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:xwangcs@ust.hk
+      url: mailto:xwangcs@ust.hk
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/WANGXinyiLinda"
+      url: "https://github.com/WANGXinyiLinda"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -144,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/WANGXinyiLinda"
+      url: "https://github.com/WANGXinyiLinda"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

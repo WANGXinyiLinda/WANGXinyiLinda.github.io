@@ -1,11 +1,9 @@
 ---
 layout: archive
 permalink: /extra/
-title: "Extra Curriculums"
+title: "Extracurricular Projects"
 author_profile: true
 ---
-
-## Extra Curriculums
 
 ### Bagstorm: Art and Sustainablity
 

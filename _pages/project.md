@@ -5,9 +5,7 @@ title: "Interesting Projects"
 author_profile: true
 ---
 
-## Interesting Projects
-
-### Reinforcement Learning Trading Algorithm
+## Reinforcement Learning Trading Algorithm
 
 * **Policy Gradient Trading Algorithm by Maximizing Sharpe Ratio** (Capstone 2)
   * Xinyi Wang, Yuan Yao. \[[report](https://github.com/WANGXinyiLinda/Policy-Gradient-Trading-Algorithm-by-Maximizing-Sharpe-Ratio/blob/master/SCIE4500_Final_Report.pdf)\]\[[repo](https://github.com/WANGXinyiLinda/Policy-Gradient-Trading-Algorithm-by-Maximizing-Sharpe-Ratio)\]\[[slides](https://github.com/WANGXinyiLinda/Policy-Gradient-Trading-Algorithm-by-Maximizing-Sharpe-Ratio/blob/master/SCIE4500_Final_presentation.pdf)\]
@@ -24,7 +22,7 @@ author_profile: true
   * Jun 2018 - Aug 2018
   * I participated in the Research in Industrial Projects for Students (RIPS-HK), sponsored by HKUST Math department, IPAM at UCLA and RealAI. Our team implemented several Q learning trading algorithms, all of which outperform the buy-and-hold strategy baseline.
 
-### Computer Vision in Biostatistics
+## Computer Vision in Biostatistics
 
 * **Cell Counting by Adaptive Fully Convolutional Redundant Counting** (Course project)
   * Xinyi Wang, Daofu Zhang, Dajun Sun \[[report](https://github.com/WANGXinyiLinda/adaptive-count-ception/blob/master/4901J_final_report.pdf)\]\[[repo](https://github.com/WANGXinyiLinda/adaptive-count-ception)\]\[[slides](https://github.com/WANGXinyiLinda/adaptive-count-ception/blob/master/4901J_final_presentation.pdf)\]

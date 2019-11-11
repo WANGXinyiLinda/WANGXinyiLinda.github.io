@@ -5,9 +5,7 @@ title: "Research Experience"
 author_profile: true
 ---
 
-## Research Experience
-
-### NLP
+## NLP
 
 * **Neural Topic Model with Attention for Supervised Learning** (Under review for AISTATS 2020)
   Xinyi Wang, Yi Yang. \[[paper](https://drive.google.com/open?id=1hILZvbua-TlNHQ9It-mib-23HI1JBFo6)\]
@@ -19,7 +17,7 @@ author_profile: true
   * Sep 2018 -  May 2019
   * Under the supervision of Prof. Yi Yang as a part-time student research assistant, I trained word embeddings on the financial documents with the incorporation of semantic information on different levels, then test the usefulness of the embeddings on the volatility prediction task. However, after comprehensive expriements, we concluded that our proposed method only outperform the baselines by a very small margin. 
 
-### Applied Mathematics in Fluid Statics
+## Applied Mathematics in Fluid Statics
 
 * **Direct proof of the formation of droplet surface shape and the principle of minimizing free energy** (Under review at Acta Physica Sinica)
   Kang Jin, Xinyi Wang, Kaihang Gui. \[[script in Chinese](https://drive.google.com/open?id=10JoCFpHa081OdhZVcUu2gPT5MUogj12F)\]

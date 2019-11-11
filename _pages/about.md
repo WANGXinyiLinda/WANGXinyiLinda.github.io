@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,13 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-## About
+I'm a final year HKUST student majoring in applied mathematics and computer science. Currently, I am on exchange at UCLA. I am applying for graduate schools starting in 2020 fall. My research interest lies in machine learning and artificial intellegence in general, with a special focus on natrual language processing (NLP) and reinforcement learning. I worked with [Prof. Yi Yang](https://scholar.google.com/citations?user=Prh_dHkAAAAJ&hl=en) in the past year on several NLP related projects. \[[CV]()\]
 
-I'm a final year HKUST student majoring in applied mathematics and computer science. Currently, I am on exchange at UCLA. I am applying for graduate schools starting in 2020 fall. My research interest lies in machine learning and artificial intellegence in general, with a special focus on natrual language processing and reinforcement learning. I worked with [Prof. Yi Yang](https://scholar.google.com/citations?user=Prh_dHkAAAAJ&hl=en) in the past year on several NLP related projects.
-
-\[[CV]()\]
-
-## Education
+## Education 
 
 * **The Hong Kong University of Science and Technology**, Sep 2016 - Aug 2020 (expected)
   * B.Sc in Applied Mathematics and Computer Science
