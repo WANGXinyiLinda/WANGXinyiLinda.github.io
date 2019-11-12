@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year HKUST student majoring in applied mathematics and computer science. Currently, I am on exchange at UCLA. I am applying for graduate schools starting in 2020 fall. My research interest lies in machine learning and artificial intellegence in general, with a special focus on natrual language processing (NLP) and reinforcement learning. I worked with [Prof. Yi Yang](https://scholar.google.com/citations?user=Prh_dHkAAAAJ&hl=en) in the past year on several NLP related projects. \[[CV]()\]
+I'm a final year HKUST student majoring in applied mathematics and computer science. Currently, I am on exchange at UCLA. I am applying for graduate schools starting in 2020 fall. My research interest lies in machine learning and artificial intelligence in general, with a special focus on natural language processing (NLP) and reinforcement learning. I worked with [Prof. Yi Yang](https://scholar.google.com/citations?user=Prh_dHkAAAAJ&hl=en) in the past year on several NLP related projects. \[[CV](/pdf/Resume.pdf)\]
 
 ## Education 
 
@@ -28,5 +28,5 @@ I'm a final year HKUST student majoring in applied mathematics and computer scie
 
 ## Recent Research
 
-**Neural Topic Model with Attention for Supervised Learning** (Under review for AISTATS 2020)
-* Xinyi Wang, Yi Yang. \[[paper](https://drive.google.com/open?id=1hILZvbua-TlNHQ9It-mib-23HI1JBFo6)\]
+**Neural Topic Model with Attention for Supervised Learning** (Under review at AISTATS 2020)
+* Xinyi Wang, Yi Yang. \[[paper](/pdf/Neural_Topic_Attention_Model_for_Supervised_Learning.pdf)\]
