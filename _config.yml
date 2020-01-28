@@ -110,8 +110,8 @@ author:
   name             : "Xinyi Wang"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Final year HKUST undergraduate student majoring in applied math and computer science."
-  location         : "Los Angeles, CA / Hong Kong"
-  email            : xwangcs@ust.hk
+  location         : "Hong Kong"
+  email            : xwangcs@connect.ust.hk
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
