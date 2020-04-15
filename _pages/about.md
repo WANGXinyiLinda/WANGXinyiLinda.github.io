@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year HKUST student majoring in applied mathematics and computer science. I was on exchange at UCLA from September to December, 2019. I am applying for graduate schools starting in 2020 fall. My research interest lies in machine learning and artificial intelligence in general, with a special focus on natural language processing (NLP) and reinforcement learning. I worked with [Prof. Yi Yang](https://scholar.google.com/citations?user=Prh_dHkAAAAJ&hl=en) in the past year on several NLP related projects. \[[CV](/pdf/Resume.pdf)\] I have one publication to appear at AISTATS 2020.
+I'm a final year HKUST student majoring in applied mathematics and computer science. I was on exchange at UCLA from September to December, 2019. I am gong to join the UCSB NLP starting in 2020 fall. My research interest lies in machine learning and artificial intelligence in general, with a special focus on natural language processing (NLP) and reinforcement learning. I worked with [Prof. Yi Yang](http://yya518.github.io/) in the past year on several NLP related projects and th [Prof. Yuan Yao](https://yao-lab.github.io/) on my Capstone Project. \[[CV](/pdf/Resume.pdf)\] I have one publication to appear at AISTATS 2020. 
 
 ## Education 
 
