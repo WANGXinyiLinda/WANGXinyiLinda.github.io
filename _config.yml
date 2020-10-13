@@ -111,7 +111,7 @@ author:
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "First year PhD student at UCSB computer science department."
   location         : "Hong Kong"
-  email            : xwangcs@connect.ust.hk
+  email            : xinyi_wang@ucsb.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
