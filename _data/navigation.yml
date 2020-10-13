@@ -4,9 +4,9 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /
-  - title: "Research Experience"
+  - title: "Research"
     url: /research/
-  - title: "Interesting Projects"
+  - title: "Other Projects"
     url: /project/
   - title: "Extracurricular"
     url: /extra/
