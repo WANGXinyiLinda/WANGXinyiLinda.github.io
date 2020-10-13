@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /project/
-title: "Interesting Projects"
+title: "Other Projects"
 author_profile: true
 ---
 
@@ -21,6 +21,14 @@ author_profile: true
   * Chun Ho Chris Park, Matthew Thomas Sturm, Katherine Thai, Xinyi Linda Wang. \[[report](/pdf/RIPS_HK_2018_Final_Report.pdf)\]\[[repo](https://github.com/chpark17/rips_realai)\]
   * Jun 2018 - Aug 2018
   * I participated in the Research in Industrial Projects for Students (RIPS-HK), sponsored by the HKUST Math department, IPAM at UCLA and RealAI. Our team designed and implemented several Q learning trading algorithms, all of which outperform the buy-and-hold strategy baseline.The poster of our project presented by Katherine won the “Outstanding Poster Award” at 2019 Joint Mathematics Meetings. \[[link](https://www.facebook.com/ipam.ucla/posts/2435280249833547/)\]
+
+## NLP Application in Finance
+
+* **Predicting Stock Volatility Using Domain Lexicon** 
+  * Xinyi Wang, Yi Yang. 
+  <!-- \[[report](/pdf/Predicting_Stock_Volatility_Using_Domain_Lexicon_Enhanced_Word_Embedding.pdf)\] -->
+  * Sep 2018 -  May 2019
+  * Under the supervision of Prof. Yi Yang as a part-time student research assistant, I trained word embeddings on the financial documents with the incorporation of semantic information on different levels, then test the usefulness of the embeddings on the volatility prediction task. However, after comprehensive experiments, we concluded that our proposed method only outperforms the baselines by a very small margin. 
 
 ## Computer Vision in Biostatistics
 

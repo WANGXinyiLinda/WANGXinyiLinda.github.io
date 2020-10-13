@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year HKUST student majoring in applied mathematics and computer science. I was on exchange at UCLA from September to December, 2019. I am gong to join the UCSB NLP starting in 2020 fall. My research interest lies in machine learning and artificial intelligence in general, with a special focus on natural language processing (NLP) and reinforcement learning. I worked with [Prof. Yi Yang](http://yya518.github.io/) in the past year on several NLP related projects and th [Prof. Yuan Yao](https://yao-lab.github.io/) on my Capstone Project. \[[CV](/pdf/Resume.pdf)\] I have one publication to appear at AISTATS 2020. 
+I'm a first year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have [Prof. William Yang Wang]() as my advisor and my current research interest is adeversarial training in NLP. I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.sc in applied mathematics and computer science. I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019. I worked with [Prof. Yi Yang](http://yya518.github.io/) in 2019-2020 on several NLP related projects and with [Prof. Yuan Yao](https://yao-lab.github.io/) on my Capstone Project in 2018-2019. 
+<!-- \[[CV](/pdf/Resume.pdf)\]  -->
 
 ## Education 
 
@@ -26,11 +27,15 @@ I'm a final year HKUST student majoring in applied mathematics and computer scie
 
 ## Scholarships and Academic Honors
 
-* **The S.S. Chern Class for Elite and Talented Students in Mathematics**, 2017 - Present
-* **University’s Scholarship Scheme for Continuing Undergraduate Students**, 2017 - Present
+* **Chern Class Talent Scholarship** (2017 - 2020), from HKUST Math department
+* **Chern Class Achievement Scholarship** (2020), from HKUST Math department
+* **The 15th Epsilon Fund Award** (2020), from HKUST Math department
+* **University’s Scholarship Scheme for Continuing Undergraduate Students** (2017 - 2020), from HKUST
+* **Reaching Out Award** (2019 - 2020), from HKSAR Government Scholarship Fund
+* **Joseph Needham Merit Scholarship** (2020), from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
 
 ## Publications
 
 **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper)
 * Xinyi Wang, Yi Yang. 
-\[[paper](/pdf/Neural_Topic_Attention_Model_for_Supervised_Learning.pdf)\]
+\[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]

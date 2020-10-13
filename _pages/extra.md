@@ -20,4 +20,4 @@ header:
 * WILL executive committee
 ![](/images/wiil_exco.jpg)
 
-* I love HKUST. Hope all the best for her.
+<!-- * I love HKUST. Hope all the best for her. -->
