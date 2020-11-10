@@ -8,8 +8,8 @@ main:
     url: /research/
   - title: "Other Projects"
     url: /project/
-  - title: "Extracurricular"
-    url: /extra/
+  # - title: "Extracurricular"
+  #   url: /extra/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
