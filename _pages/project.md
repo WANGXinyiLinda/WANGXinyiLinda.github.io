@@ -18,7 +18,7 @@ author_profile: true
   * I continued to explore the topic of my RIPS-HK 2018 group project and proposed some variants of deep Q learning trading algorithms.
 
 * **Applying Q-Learning to Algorithmic Bitcoin Trading** (RIPS-HK)
-  * Chun Ho Chris Park, Matthew Thomas Sturm, Katherine Thai, Xinyi Linda Wang. \[[report](/pdf/RIPS_HK_2018_Final_Report.pdf)\]\[[repo](https://github.com/chpark17/rips_realai)\]
+  * Chun Ho Chris Park, Matthew Thomas Sturm, Katherine Thai, Xinyi Linda Wang, Queenie Lee, Jonathan Yan. \[[report](/pdf/RIPS_HK_2018_Final_Report.pdf)\]\[[repo](https://github.com/chpark17/rips_realai)\]
   * Jun 2018 - Aug 2018
   * I participated in the Research in Industrial Projects for Students (RIPS-HK), sponsored by the HKUST Math department, IPAM at UCLA and RealAI. Our team designed and implemented several Q learning trading algorithms, all of which outperform the buy-and-hold strategy baseline.The poster of our project presented by Katherine won the “Outstanding Poster Award” at 2019 Joint Mathematics Meetings. \[[link](https://www.facebook.com/ipam.ucla/posts/2435280249833547/)\]
 
