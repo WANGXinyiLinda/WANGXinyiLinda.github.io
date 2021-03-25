@@ -25,12 +25,13 @@ I'm a first year PhD student in the computer science department at the Universit
 
 ## Scholarships and Academic Honors
 
-* **Chern Class Talent Scholarship** (2017 - 2020), from HKUST Math department
-* **Chern Class Achievement Scholarship** (2020), from HKUST Math department
-* **The 15th Epsilon Fund Award** (2020), from HKUST Math department
-* **University’s Scholarship Scheme for Continuing Undergraduate Students** (2017 - 2020), from HKUST
-* **Reaching Out Award** (2019 - 2020), from HKSAR Government Scholarship Fund
-* **Joseph Needham Merit Scholarship** (2020), from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
+* Chern Class Talent Scholarship (2017 - 2020) from HKUST Math department
+* Chern Class Achievement Scholarship (2020) from HKUST Math department
+* The 15th Epsilon Fund Award (2020) from HKUST Math department
+* University’s Scholarship Scheme for Continuing Undergraduate Students (2017 - 2020) from HKUST
+* Reaching Out Award (2019 - 2020) from HKSAR Government Scholarship Fund
+* Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
+* Academic Excellence Fellowship (2020) from UCSB
 
 ## Publications
 
