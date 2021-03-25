@@ -102,11 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-<<<<<<< HEAD
-      # url: mailto:xinyi_wang@ucsb.edu
-=======
       # url: "mailto:your.name@email.com"
->>>>>>> 3d3cb58a2efa2c8b1ed4d9f93f48419e9e0aedec
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
