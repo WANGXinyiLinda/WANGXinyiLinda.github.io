@@ -120,7 +120,11 @@ author:
       # url: "https://instagram.com/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5m_itAIsQ1PgxYb-VL3q541JQxmbP1WEx4BhSblm4ZWOv3d4WACbFaDzaN1JVXnokfLaAn6_LMwVZaAfZVR5nTQbrWwA&user=3vvbplcAAAAJ"
+      url: "https://scholar.google.com/citations?user=3vvbplcAAAAJ"
+
+# disable feed icon in footer
+atom_feed:
+  hide: true
 
 # Site Footer
 footer:
