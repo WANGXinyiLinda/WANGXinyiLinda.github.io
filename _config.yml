@@ -97,7 +97,7 @@ author:
   name             : "Xinyi Wang"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "First year PhD student at UCSB computer science department."
-  location         : "Hong Kong"
+  location         : "Santa Barbara, California"
   email            : xinyi_wang@ucsb.edu
   links:
     - label: "Email"

@@ -62,7 +62,8 @@
   }
 
   img {
-    width: 100%;
+    max-width: 180px;
+    border-radius: 0%;
 
     &.emoji {
       width: 20px;
@@ -172,6 +173,7 @@
 
 .author__bio {
   margin: 0;
+  font-style: italic;
 
   @include breakpoint($large) {
     margin-top: 10px;
