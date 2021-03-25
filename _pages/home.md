@@ -1,7 +1,7 @@
 ---
-layout: home
-permalink: /about/
-title: "About"
+layout: archive
+permalink: /
+hidden: true
 author_profile: true
 ---
 
