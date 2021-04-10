@@ -37,7 +37,7 @@ I'm a first year PhD student in the computer science department at the Universit
 
 ## Publications
 
-**Dimensions of Transparency in NLP Applications** (Arxiv preprint)
+**Dimensions of Transparency in NLP Applications** (arXiv preprint)
 * Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang
 \[[paper](https://arxiv.org/abs/2101.00433)\]
 
