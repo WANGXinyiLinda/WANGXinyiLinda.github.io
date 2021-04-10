@@ -5,7 +5,9 @@ hidden: true
 author_profile: true
 ---
 
-I'm a first year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html ) as my advisor and I am interested in natural language processing and machine learning in general. I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc in applied mathematics and computer science. I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019. I also had the fortune to work with [Prof. Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/). 
+I'm a first year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html ) as my advisor and I am interested in natural language processing and machine learning in general. I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science. 
+<!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
+<!-- I also had the fortune to work with [Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/).  -->
 <!-- \[[CV](/pdf/Resume.pdf)\]  -->
 
 ## Education 
@@ -35,6 +37,9 @@ I'm a first year PhD student in the computer science department at the Universit
 
 ## Publications
 
+**RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, long paper)
+* <ins>Xinyi Wang</ins>*, Haiqin Yang*, Yang Mo and Jianping Shen
+
 **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper)
-* Xinyi Wang, Yi Yang. 
+* <ins>Xinyi Wang</ins>, Yi Yang. 
 \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]
