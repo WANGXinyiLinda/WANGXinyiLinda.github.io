@@ -37,13 +37,11 @@ I'm a first year PhD student in the computer science department at the Universit
 
 ## Publications
 
-**Dimensions of Transparency in NLP Applications** (arXiv preprint)
-* Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang
-\[[paper](https://arxiv.org/abs/2101.00433)\]
+* **Dimensions of Transparency in NLP Applications** (arXiv preprint)
+  Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
 
-**RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, long paper)
-* **Xinyi Wang**\*, Haiqin Yang\*, Yang Mo and Jianping Shen
+* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, long paper)
+  **Xinyi Wang**\*, Haiqin Yang\*, Yang Mo and Jianping Shen
 
-**Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper)
-* **Xinyi Wang**, Yi Yang
-\[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]
+* **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper)
+  **Xinyi Wang**, Yi Yang \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]

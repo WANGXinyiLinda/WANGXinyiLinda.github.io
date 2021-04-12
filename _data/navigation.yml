@@ -4,10 +4,10 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
-  - title: "Other Projects"
-    url: /project/
+  # - title: "Research"
+  #   url: /research/
+  # - title: "Other Projects"
+  #   url: /project/
   # - title: "Extracurricular"
   #   url: /extra/
   # - title: "Sample Posts"
