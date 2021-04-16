@@ -45,3 +45,6 @@ I'm a first year PhD student in the computer science department at the Universit
 
 * **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper)
   **Xinyi Wang**, Yi Yang \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]
+
+* **Direct Proof of the Formation of Droplet Surface Shape and the Principle of Minimizing Free Energy** (College Physics. Sep. 2020)
+  Kang Jin, **Xinyi Wang**, Kaihang Gui
