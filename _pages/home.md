@@ -43,7 +43,7 @@ I'm a first year PhD student in the computer science department at the Universit
 
 * **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (to appear in IJCNN 2021, long paper, oral)
 
-  **Xinyi Wang**\*, Haiqin Yang\*, Yang Mo and Jianping Shen
+  **Xinyi Wang**\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen
 
 * **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper)
 
