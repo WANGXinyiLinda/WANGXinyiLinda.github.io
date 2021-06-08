@@ -37,6 +37,10 @@ I'm a first year PhD student in the computer science department at the Universit
 
 ## Publications
 
+* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (arXiv preprint)
+
+  **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]
+
 * **Dimensions of Transparency in NLP Applications** (arXiv preprint)
 
   Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
