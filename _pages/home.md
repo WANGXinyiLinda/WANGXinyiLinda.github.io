@@ -45,11 +45,11 @@ I'm a first year PhD student in the computer science department at the Universit
 
   Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
 
-* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (to appear in IJCNN 2021, long paper, oral)
+* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, long paper, oral)
 
-  **Xinyi Wang**\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen
+  **Xinyi Wang**\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen \[[paper](https://arxiv.org/abs/2106.08898)\]
 
-* **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper)
+* **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper, poster)
 
   **Xinyi Wang**, Yi Yang \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]
 
