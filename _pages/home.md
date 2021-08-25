@@ -35,7 +35,11 @@ I'm a first year PhD student in the computer science department at the Universit
 * Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
 * Academic Excellence Fellowship (2020) from UCSB
 
-## Publications
+## Preprints
+
+* **A Dataset for Answering Time-Sensitive Questions** (arXiv preprint)
+
+  Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]
 
 * **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (arXiv preprint)
 
@@ -44,6 +48,8 @@ I'm a first year PhD student in the computer science department at the Universit
 * **Dimensions of Transparency in NLP Applications** (arXiv preprint)
 
   Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
+
+## Publications
 
 * **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, long paper, oral)
 
