@@ -45,11 +45,11 @@ I'm a first year PhD student in the computer science department at the Universit
 
   **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]
 
-* **Dimensions of Transparency in NLP Applications** (arXiv preprint)
+## Publications
+
+* **Modeling Discolsive Transparency in NLP Application Descriptions** (to appear in EMNLP 2021 main conference, long paper)
 
   Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
-
-## Publications
 
 * **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, long paper, oral)
 
