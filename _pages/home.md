@@ -41,21 +41,21 @@ I'm a second year PhD student in the computer science department at the Universi
 
   Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]
 
-* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (arXiv preprint)
+## Publications
+
+* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (to appear in NeurIPS 2021 main conference, poster)
 
   **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]
 
-## Publications
-
-* **Modeling Discolsive Transparency in NLP Application Descriptions** (to appear in EMNLP 2021 main conference, long paper)
+* **Modeling Discolsive Transparency in NLP Application Descriptions** (to appear in EMNLP 2021 main conference, oral)
 
   Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
 
-* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, long paper, oral)
+* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, oral)
 
   **Xinyi Wang**\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen \[[paper](https://arxiv.org/abs/2106.08898)\]
 
-* **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, long paper, poster)
+* **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, poster)
 
   **Xinyi Wang**, Yi Yang \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]
 
