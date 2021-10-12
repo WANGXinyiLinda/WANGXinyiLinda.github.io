@@ -5,7 +5,8 @@ hidden: true
 author_profile: true
 ---
 
-I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor and I am interested in natural language processing and machine learning in general. I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science. 
+I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor and my research interests are natural language processing and machine learning in general. More specifically I'm interested in applying causality theories to machine learning problems. 
+<!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
 <!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
 <!-- I also had the fortune to work with [Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/).  -->
 <!-- \[[CV](/pdf/Resume.pdf)\]  -->
@@ -35,13 +36,13 @@ I'm a second year PhD student in the computer science department at the Universi
 * Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
 * Academic Excellence Fellowship (2020) from UCSB
 
-## Preprints
-
-* **A Dataset for Answering Time-Sensitive Questions** (arXiv preprint)
-
-  Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]
+<!-- ## Preprints -->
 
 ## Publications
+
+* **A Dataset for Answering Time-Sensitive Questions** (to appear in NeurIPS 2021 Datasets and Benchmarks Track, poster)
+
+  Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]
 
 * **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (to appear in NeurIPS 2021 main conference, poster)
 
