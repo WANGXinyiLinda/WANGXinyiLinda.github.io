@@ -5,7 +5,7 @@ hidden: true
 author_profile: true
 ---
 
-I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor and my research interests are natural language processing and machine learning in general. More specifically I'm interested in applying causality theories to machine learning problems. 
+I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor. I'm interested in solving machine learning problems using causality based methods and applying these techniques to real-world problems. 
 <!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
 <!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
 <!-- I also had the fortune to work with [Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/).  -->
@@ -63,3 +63,6 @@ I'm a second year PhD student in the computer science department at the Universi
 <!-- * **Direct Proof of the Formation of Droplet Surface Shape and the Principle of Minimizing Free Energy** (College Physics. Sep. 2020)
 
   Kang Jin, **Xinyi Wang**, Kaihang Gui -->
+
+## Services
+* 2021 Program Committee: NeurIPS Dataset Track
