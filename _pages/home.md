@@ -5,7 +5,7 @@ hidden: true
 author_profile: true
 ---
 
-I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor. I'm interested in solving machine learning problems using causality based methods and applying these techniques to real-world problems. 
+I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor. I am interested in improving the robustness, generalizability and fairness of machine learning algorithms, especially deep learning algorithms. My research currently focuses on causality based methods and the application to NLP tasks. 
 <!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
 <!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
 <!-- I also had the fortune to work with [Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/).  -->
@@ -48,7 +48,7 @@ I'm a second year PhD student in the computer science department at the Universi
 
   **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]
 
-* **Modeling Discolsive Transparency in NLP Application Descriptions** (to appear in EMNLP 2021 main conference, oral)
+* **Modeling Discolsive Transparency in NLP Application Descriptions** (EMNLP 2021, oral)
 
   Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
 
