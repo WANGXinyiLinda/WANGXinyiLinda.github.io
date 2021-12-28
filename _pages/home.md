@@ -40,11 +40,11 @@ I'm a second year PhD student in the computer science department at the Universi
 
 ## Publications
 
-* **A Dataset for Answering Time-Sensitive Questions** (to appear in NeurIPS 2021 Datasets and Benchmarks Track, poster)
+* **A Dataset for Answering Time-Sensitive Questions** (NeurIPS 2021 Datasets and Benchmarks Track, poster)
 
   Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]
 
-* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (to appear in NeurIPS 2021 main conference, poster)
+* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (NeurIPS 2021, poster)
 
   **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]
 
@@ -65,4 +65,4 @@ I'm a second year PhD student in the computer science department at the Universi
   Kang Jin, **Xinyi Wang**, Kaihang Gui -->
 
 ## Services
-* 2021 Program Committee: NeurIPS Dataset Track
+* 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
