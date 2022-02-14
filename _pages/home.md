@@ -42,15 +42,15 @@ I'm a second year PhD student in the computer science department at the Universi
 
 * **A Dataset for Answering Time-Sensitive Questions** (NeurIPS 2021 Datasets and Benchmarks Track, poster)
 
-  Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]
+  Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]\[[code](https://github.com/wenhuchen/Time-Sensitive-QA)\]
 
 * **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (NeurIPS 2021, poster)
 
-  **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]
+  **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]\[[code](https://github.com/WANGXinyiLinda/CMLE)\]
 
 * **Modeling Discolsive Transparency in NLP Application Descriptions** (EMNLP 2021, oral)
 
-  Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]
+  Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]\[[code](https://github.com/michaelsaxon/disclosive-transparency)\]
 
 * **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, oral)
 
@@ -58,7 +58,7 @@ I'm a second year PhD student in the computer science department at the Universi
 
 * **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, poster)
 
-  **Xinyi Wang**, Yi Yang \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]
+  **Xinyi Wang**, Yi Yang \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
 
 <!-- * **Direct Proof of the Formation of Droplet Surface Shape and the Principle of Minimizing Free Energy** (College Physics. Sep. 2020)
 
