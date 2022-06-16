@@ -5,7 +5,7 @@ hidden: true
 author_profile: true
 ---
 
-I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor. I am interested in improving the robustness, generalizability and fairness of machine learning algorithms, especially deep learning algorithms. My research currently focuses on causality based methods and the application to NLP tasks. 
+I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor. I am interested in improving the robustness and generalizability of machine learning algorithms, especially deep learning algorithms. My research currently focuses on causality based methods and the application to NLP tasks. 
 <!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
 <!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
 <!-- I also had the fortune to work with [Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/).  -->
@@ -36,33 +36,59 @@ I'm a second year PhD student in the computer science department at the Universi
 * Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
 * Academic Excellence Fellowship (2020) from UCSB
 
-<!-- ## Preprints -->
+## Preprints
+
+* **Causal Balancing for Domain Generalization**
+
+  <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
+
+  _Preprint_ \[[paper](https://arxiv.org/abs/2206.05263)\]
+
+* **Relation Leakage in Elicited Natural Language Inference Datasets**
+
+  Michael Saxon, <u>Xinyi Wang</u>, Wenda Xu, William Yang Wang
+  
+  _Preprint_ \[[paper](https://arxiv.org/abs/2112.09237)\]
 
 ## Publications
 
-* **A Dataset for Answering Time-Sensitive Questions** (NeurIPS 2021 Datasets and Benchmarks Track, poster)
+* **A Dataset for Answering Time-Sensitive Questions** 
 
-  Wenhu Chen, **Xinyi Wang**, William Yang Wang \[[paper](https://arxiv.org/abs/2108.06314)\]\[[code](https://github.com/wenhuchen/Time-Sensitive-QA)\]
+  Wenhu Chen, <u>Xinyi Wang</u>, William Yang Wang 
 
-* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** (NeurIPS 2021, poster)
+  _Proceedings of NeurIPS 2021 Datasets and Benchmarks Track, Virtual (poster)_ \[[paper](https://arxiv.org/abs/2108.06314)\]\[[code](https://github.com/wenhuchen/Time-Sensitive-QA)\]
 
-  **Xinyi Wang**, Wenhu Chen, Michael Saxon, William Yang Wang \[[paper](https://arxiv.org/abs/2106.03831)\]\[[code](https://github.com/WANGXinyiLinda/CMLE)\]
+* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** 
 
-* **Modeling Discolsive Transparency in NLP Application Descriptions** (EMNLP 2021, oral)
+  <u>Xinyi Wang</u>, Wenhu Chen, Michael Saxon, William Yang Wang 
 
-  Michael Saxon, Sharon Levy, **Xinyi Wang**, Alon Albalak, William Yang Wang \[[paper](https://arxiv.org/abs/2101.00433)\]\[[code](https://github.com/michaelsaxon/disclosive-transparency)\]
+  _Proceedings of NeurIPS 2021, Virtual (poster)_ \[[paper](https://arxiv.org/abs/2106.03831)\]\[[code](https://github.com/WANGXinyiLinda/CMLE)\]
 
-* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** (IJCNN 2021, oral)
+* **Modeling Discolsive Transparency in NLP Application Descriptions** 
 
-  **Xinyi Wang**\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen \[[paper](https://arxiv.org/abs/2106.08898)\]
+  Michael Saxon, Sharon Levy, <u>Xinyi Wang</u>, Alon Albalak, William Yang Wang 
 
-* **Neural Topic Model with Attention for Supervised Learning** (AISTATS 2020, poster)
+  _Proceedings of EMNLP 2021, Virtual (<span style="color:red">oral</span>)_ \[[paper](https://arxiv.org/abs/2101.00433)\]\[[code](https://github.com/michaelsaxon/disclosive-transparency)\]
 
-  **Xinyi Wang**, Yi Yang \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
+* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** 
+
+  <u>Xinyi Wang</u>\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen 
+
+  _Proceedings of IJCNN 2021, Virtual (<span style="color:red">oral</span>)_ \[[paper](https://arxiv.org/abs/2106.08898)\]
+
+* **Neural Topic Model with Attention for Supervised Learning** 
+
+  <u>Xinyi Wang</u>, Yi Yang 
+
+   _Proceedings of AISTATS 2020, Virtual (poster)_ \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
 
 <!-- * **Direct Proof of the Formation of Droplet Surface Shape and the Principle of Minimizing Free Energy** (College Physics. Sep. 2020)
 
   Kang Jin, **Xinyi Wang**, Kaihang Gui -->
+
+<sub><sup>* indiacts equal contribution</sup></sub>
+
+
 
 ## Services
 * 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
