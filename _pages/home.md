@@ -5,7 +5,9 @@ hidden: true
 author_profile: true
 ---
 
-I'm a second year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor. I am interested in improving the robustness and generalizability of machine learning algorithms, especially deep learning algorithms. My research currently focuses on causality based methods and the application to NLP tasks. 
+I am a second-year graduate student in the computer science department at the University of California, Santa Barbara (UCSB).  
+I am glad to have professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html) as my advisor. 
+I am interested in improving the trustworthiness of deep learning models (e.g. robustness, explainability, etc.), using causality-based approaches, and their application to real-world tasks.
 <!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
 <!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
 <!-- I also had the fortune to work with [Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/).  -->
@@ -92,3 +94,4 @@ I'm a second year PhD student in the computer science department at the Universi
 
 ## Services
 * 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
+* 2022 Program Committee: AAAI
