@@ -5,7 +5,7 @@ hidden: true
 author_profile: true
 ---
 
-I am a second-year graduate student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+I am a third-year graduate student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I am interested in improving the trustworthiness of deep learning models (e.g. robustness, explainability, uncertainty estimation, etc.), using principled causality-based/probabilistic approaches, and applying them to real-world tasks.
 <!-- and I have also been working with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/).  -->
 <!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
