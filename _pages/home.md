@@ -5,7 +5,7 @@ hidden: true
 author_profile: true
 ---
 
-I am a third-year graduate student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+I am a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I am interested in improving the trustworthiness of deep learning models (e.g. robustness, explainability, uncertainty estimation, etc.), using principled causality-based/probabilistic approaches, and applying them to real-world tasks.
 
 *I'm actively looking for a 2023 summer research internship. Please feel free to reach out to me if you think I could be a fit!*
