@@ -42,6 +42,9 @@ I am interested in improving the trustworthiness of deep learning models (e.g. r
 
 ## Preprints
 
+* **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
+  Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
+
 * **Causal Balancing for Domain Generalization**
 
   <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
