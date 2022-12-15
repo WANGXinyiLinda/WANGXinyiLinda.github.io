@@ -54,7 +54,7 @@ I am interested in improving the trustworthiness of deep learning models (e.g. r
 
   _Preprint_ \[[paper](https://arxiv.org/abs/2206.05263)\]
 
-* **Relation Leakage in Elicited Natural Language Inference Datasets**
+* **PECO: Examining Single Sentence Label Leakage in Natural Language Inference Datasets through Progressive Evaluation of Cluster Outliers**
 
   Michael Saxon, <u>Xinyi Wang</u>, Wenda Xu, William Yang Wang
   
