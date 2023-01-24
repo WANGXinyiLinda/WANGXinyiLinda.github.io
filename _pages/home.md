@@ -48,19 +48,19 @@ I am interested in improving the trustworthiness of deep learning models (e.g. r
 
   _Preprint_ \[[paper](https://arxiv.org/abs/2211.12588)\]
 
+## Publications
+
 * **Causal Balancing for Domain Generalization**
 
   <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
 
-  _Preprint_ \[[paper](https://arxiv.org/abs/2206.05263)\]
+  _Proceedings of ICLR 2023, Rwanda (poster)_ \[[paper](https://arxiv.org/abs/2206.05263)\]
 
 * **PECO: Examining Single Sentence Label Leakage in Natural Language Inference Datasets through Progressive Evaluation of Cluster Outliers**
 
   Michael Saxon, <u>Xinyi Wang</u>, Wenda Xu, William Yang Wang
   
-  _Preprint_ \[[paper](https://arxiv.org/abs/2112.09237)\]
-
-## Publications
+  _Proceedings of EACL 2023, Croatia_ \[[paper](https://arxiv.org/abs/2112.09237)\]
 
 * **A Dataset for Answering Time-Sensitive Questions** 
 
