@@ -42,6 +42,12 @@ I am interested in improving the trustworthiness of deep learning models (e.g. r
 
 ## Preprints
 
+* **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
+
+  <u>Xinyi Wang</u>, Wanrong Zhu, William Wang
+
+  _Preprint_ \[[paper](http://arxiv.org/abs/2301.11916)\]
+
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
   Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
