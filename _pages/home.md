@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 I am a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I am interested in improving the trustworthiness of deep learning models (e.g. robustness, explainability, uncertainty estimation, etc.), using principled causality-based/probabilistic approaches, and applying them to real-world tasks.
+I am interested in understanding deep learning models, especially pre-trained large language models, using principled causality-based/probabilistic approaches.
+
+*I'm going to intern at MSR Canada at Montreal in Summer 2023. Please feel free to reach out to me if you want to chat about research!*
 
 <!-- *I'm actively looking for a 2023 summer research internship. Please feel free to reach out to me if you think I could be a fit!* -->
 <!-- and I have also been working with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/).  -->
