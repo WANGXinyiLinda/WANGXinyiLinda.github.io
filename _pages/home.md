@@ -107,7 +107,7 @@ I am interested in understanding deep learning models, especially pre-trained la
 <sub><sup>* indiacts equal contribution</sup></sub>
 
 ## Talks
-* My Major area exam presentation in March 2023: Understanding Pre-trained Large Language Models through a Probabilistic Lens [slides](pdf\MAE_online.pdf)
+* My Major area exam presentation in March 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\MAE_online.pdf)\]
 
 
 ## Services
