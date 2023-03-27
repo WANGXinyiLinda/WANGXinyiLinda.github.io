@@ -10,8 +10,8 @@ main:
   #   url: /project/
   # - title: "Extracurricular"
   #   url: /extra/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Blogs"
+    url: /post-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
