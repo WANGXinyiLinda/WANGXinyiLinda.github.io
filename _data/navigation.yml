@@ -6,12 +6,8 @@ main:
     url: /
   # - title: "Research"
   #   url: /research/
-  # - title: "Other Projects"
-  #   url: /project/
-  # - title: "Extracurricular"
-  #   url: /extra/
-  - title: "Blogs"
-    url: /post-archive/
+  # - title: "Blogs"
+  #   url: /post-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
