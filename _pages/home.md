@@ -48,13 +48,13 @@ I am interested in understanding deep learning models, especially pre-trained la
 
   <u>Xinyi Wang</u>, Wanrong Zhu, William Wang
 
-  _Preprint 2023_ \[[paper](http://arxiv.org/abs/2301.11916)\]
+  _Preprint 2023_ \[[paper](http://arxiv.org/abs/2301.11916)\]\[[code](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)\]
 
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
   Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
 
-  _Preprint 2022_ \[[paper](https://arxiv.org/abs/2211.12588)\]
+  _Preprint 2022_ \[[paper](https://arxiv.org/abs/2211.12588)\]\[[code](https://github.com/wenhuchen/Program-of-Thoughts)\]
 
 ## Publications
 
@@ -62,13 +62,13 @@ I am interested in understanding deep learning models, especially pre-trained la
 
   <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
 
-  _Proceedings of ICLR 2023, Rwanda (poster)_ \[[paper](https://arxiv.org/abs/2206.05263)\]
+  _Proceedings of ICLR 2023, Rwanda (poster)_ \[[paper](https://arxiv.org/abs/2206.05263)\]\[[code](https://github.com/WANGXinyiLinda/causal-balancing-for-domain-generalization)\]
 
 * **PECO: Examining Single Sentence Label Leakage in Natural Language Inference Datasets through Progressive Evaluation of Cluster Outliers**
 
   Michael Saxon, <u>Xinyi Wang</u>, Wenda Xu, William Yang Wang
   
-  _Proceedings of EACL 2023, Croatia_ \[[paper](https://arxiv.org/abs/2112.09237)\]
+  _Proceedings of EACL 2023, Croatia_ \[[paper](https://arxiv.org/abs/2112.09237)\]\[[code](https://github.com/michaelsaxon/DatasetAnalysis)\]
 
 * **A Dataset for Answering Time-Sensitive Questions** 
 
