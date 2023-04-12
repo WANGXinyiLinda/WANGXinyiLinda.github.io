@@ -5,7 +5,7 @@ hidden: true
 author_profile: true
 ---
 
-I am a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+I am Xinyi Wang (王心怡), a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I am interested in understanding deep learning models, especially pre-trained large language models, using principled causality-based/probabilistic approaches. My CV can be downloaded \[[here](pdf\CV.pdf)\].
 
 *I'm going to intern at MSR Canada at Montreal in Summer 2023. Please feel free to reach out to me if you want to chat about research!*
