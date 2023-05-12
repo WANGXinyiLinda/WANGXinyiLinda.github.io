@@ -46,7 +46,7 @@ I am interested in understanding deep learning models, especially pre-trained la
 
 * **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
-  <u>Xinyi Wang</u>, Wanrong Zhu, William Wang
+  <u>Xinyi Wang</u>, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
 
   _Preprint 2023_ \[[paper](http://arxiv.org/abs/2301.11916)\]\[[code](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)\]
 
