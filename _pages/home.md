@@ -46,15 +46,15 @@ I am interested in understanding deep learning models, especially pre-trained la
 
 * **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**
 
-Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
+  Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
 
-_Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12295)\]\[[code](https://github.com/teacherpeterpan/Logic-LLM)\]
+  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12295)\]\[[code](https://github.com/teacherpeterpan/Logic-LLM)\]
 
 * **TheoremQA: A Theorem-driven Question Answering dataset**
 
-Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, <u>Xinyi Wang</u>, Pan Lu
+  Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, <u>Xinyi Wang</u>, Pan Lu
 
-_Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12524)\]\[[code](https://github.com/wenhuchen/TheoremQA)\]
+  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12524)\]\[[code](https://github.com/wenhuchen/TheoremQA)\]
 
 * **Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation**
 
