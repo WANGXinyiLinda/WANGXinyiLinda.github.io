@@ -121,6 +121,10 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=3vvbplcAAAAJ"
+    - label: "Semantic Scholar"
+      icon: "ai ai-semantic-scholar-square"
+      url: "https://www.semanticscholar.org/author/Xinyi-Wang/2115553132"
+
 
 # disable feed icon in footer
 atom_feed:
@@ -147,6 +151,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=3vvbplcAAAAJ"
+    - label: "Semantic Scholar"
+      icon: "ai ai-semantic-scholar-square"
+      url: "https://www.semanticscholar.org/author/Xinyi-Wang/2115553132"
 
 
 # Reading Files
