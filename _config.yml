@@ -122,7 +122,7 @@ author:
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=3vvbplcAAAAJ"
     - label: "Semantic Scholar"
-      icon: "ai ai-semantic-scholar-square"
+      icon: "ai ai-semantic-scholar"
       url: "https://www.semanticscholar.org/author/Xinyi-Wang/2115553132"
 
 
@@ -155,7 +155,7 @@ footer:
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=3vvbplcAAAAJ"
     - label: "Semantic Scholar"
-      icon: "ai ai-semantic-scholar-square"
+      icon: "ai ai-semantic-scholar"
       url: "https://www.semanticscholar.org/author/Xinyi-Wang/2115553132"
 
 
