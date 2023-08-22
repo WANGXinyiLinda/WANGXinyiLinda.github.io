@@ -8,7 +8,7 @@ author_profile: true
 I am a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I am interested in understanding deep learning models, especially pre-trained large language models, using principled causality-based/probabilistic approaches.
 
-*I'm going to intern at MSR Canada at Montreal in Summer 2023. Please feel free to reach out to me if you want to chat about research!*
+*I'm working as a research intern at MSR Montreal for Summer 2023. Please feel free to reach out to me if you want to chat about research!*
 
 <!-- *I'm actively looking for a 2023 summer research internship. Please feel free to reach out to me if you think I could be a fit!* -->
 <!-- and I have also been working with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/).  -->
@@ -43,6 +43,24 @@ I am interested in understanding deep learning models, especially pre-trained la
 * Academic Excellence Fellowship (2020) from UCSB
 
 ## Preprints
+
+* **TheoremQA: A Theorem-driven Question Answering dataset**
+
+ Wenhu Chen, Ming Yin, Max Ku, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, <u>Xinyi Wang</u>, Tony Xia
+
+ _Preprint_ \[[paper](https://arxiv.org/abs/2305.12524)\]
+
+* **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**
+
+ Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
+
+ _Preprint_ \[[paper](https://arxiv.org/abs/2305.12295)\]
+
+* **Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation**
+ 
+ Wanrong Zhu, Xinyi Wang, Yujie Lu, Tsu-Jui Fu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
+
+ _Preprint_ \[[paper](https://arxiv.org/abs/2305.11317)\]
 
 * **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
@@ -113,4 +131,4 @@ I am interested in understanding deep learning models, especially pre-trained la
 ## Services
 * 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
 * 2022 Program Committee: AAAI
-* 2023 Program Committee: NeurIPS
+* 2023 Program Committee: NeurIPS, AAAI
