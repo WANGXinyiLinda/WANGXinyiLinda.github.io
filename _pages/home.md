@@ -5,8 +5,8 @@ hidden: true
 author_profile: true
 ---
 
-I am a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I am interested in understanding deep learning models, especially pre-trained large language models, using principled causality-based/probabilistic approaches.
+I am Xinyi Wang (王心怡), a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+I am interested in understanding deep learning models, especially pre-trained large language models, using principled causality-based/probabilistic approaches. My CV can be downloaded \[[here](pdf\CV.pdf)\].
 
 *I'm working as a research intern at MSR Montreal for Summer 2023. Please feel free to reach out to me if you want to chat about research!*
 
@@ -44,35 +44,35 @@ I am interested in understanding deep learning models, especially pre-trained la
 
 ## Preprints
 
-* **TheoremQA: A Theorem-driven Question Answering dataset**
-
- Wenhu Chen, Ming Yin, Max Ku, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, <u>Xinyi Wang</u>, Tony Xia
-
- _Preprint_ \[[paper](https://arxiv.org/abs/2305.12524)\]
-
 * **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**
 
- Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
+  Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
 
- _Preprint_ \[[paper](https://arxiv.org/abs/2305.12295)\]
+  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12295)\]\[[code](https://github.com/teacherpeterpan/Logic-LLM)\]
+
+* **TheoremQA: A Theorem-driven Question Answering dataset**
+
+  Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, <u>Xinyi Wang</u>, Pan Lu
+
+  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12524)\]\[[code](https://github.com/wenhuchen/TheoremQA)\]
 
 * **Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation**
- 
- Wanrong Zhu, Xinyi Wang, Yujie Lu, Tsu-Jui Fu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
 
- _Preprint_ \[[paper](https://arxiv.org/abs/2305.11317)\]
+  Wanrong Zhu, <u>Xinyi Wang</u>, Yujie Lu, Tsu-Jui Fu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
+
+  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.11317)\]
 
 * **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
-  <u>Xinyi Wang</u>, Wanrong Zhu, William Wang
+  <u>Xinyi Wang</u>, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
 
-  _Preprint_ \[[paper](http://arxiv.org/abs/2301.11916)\]
+  _Preprint 2023_ \[[paper](http://arxiv.org/abs/2301.11916)\]\[[code](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)\]
 
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
   Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
 
-  _Preprint_ \[[paper](https://arxiv.org/abs/2211.12588)\]
+  _Preprint 2022_ \[[paper](https://arxiv.org/abs/2211.12588)\]\[[code](https://github.com/wenhuchen/Program-of-Thoughts)\]
 
 ## Publications
 
@@ -80,13 +80,13 @@ I am interested in understanding deep learning models, especially pre-trained la
 
   <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
 
-  _Proceedings of ICLR 2023, Rwanda (poster)_ \[[paper](https://arxiv.org/abs/2206.05263)\]
+  _Proceedings of ICLR 2023, Rwanda (poster)_ \[[paper](https://arxiv.org/abs/2206.05263)\]\[[code](https://github.com/WANGXinyiLinda/causal-balancing-for-domain-generalization)\]
 
 * **PECO: Examining Single Sentence Label Leakage in Natural Language Inference Datasets through Progressive Evaluation of Cluster Outliers**
 
   Michael Saxon, <u>Xinyi Wang</u>, Wenda Xu, William Yang Wang
   
-  _Proceedings of EACL 2023, Croatia_ \[[paper](https://arxiv.org/abs/2112.09237)\]
+  _Proceedings of EACL 2023, Croatia_ \[[paper](https://arxiv.org/abs/2112.09237)\]\[[code](https://github.com/michaelsaxon/DatasetAnalysis)\]
 
 * **A Dataset for Answering Time-Sensitive Questions** 
 
@@ -125,7 +125,7 @@ I am interested in understanding deep learning models, especially pre-trained la
 <sub><sup>* indiacts equal contribution</sup></sub>
 
 ## Talks
-* My Major area exam presentation in March 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\MAE_online.pdf)\]
+* My Major area exam presentation in March 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\MAE_online.pdf)\] \[[updated slides (May 2023)](pdf\llms.pdf)\] 
 
 
 ## Services
