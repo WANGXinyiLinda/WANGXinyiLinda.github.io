@@ -76,6 +76,12 @@ I am interested in understanding deep learning models, especially pre-trained la
 
 ## Publications
 
+* **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
+
+  <u>Xinyi Wang</u>, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
+
+  _Proceedings of NeurIPS 2023, New Orleans (poster)_ \[[paper](http://arxiv.org/abs/2301.11916)\]\[[code](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)\]
+
 * **Causal Balancing for Domain Generalization**
 
   <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
@@ -131,4 +137,4 @@ I am interested in understanding deep learning models, especially pre-trained la
 ## Services
 * 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
 * 2022 Program Committee: AAAI
-* 2023 Program Committee: NeurIPS, AAAI
+* 2023 Program Committee: NeurIPS, AAAI, ICLR
