@@ -44,30 +44,6 @@ I am interested in understanding deep learning models, especially pre-trained la
 
 ## Preprints
 
-* **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**
-
-  Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
-
-  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12295)\]\[[code](https://github.com/teacherpeterpan/Logic-LLM)\]
-
-* **TheoremQA: A Theorem-driven Question Answering dataset**
-
-  Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, <u>Xinyi Wang</u>, Pan Lu
-
-  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.12524)\]\[[code](https://github.com/wenhuchen/TheoremQA)\]
-
-* **Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation**
-
-  Wanrong Zhu, <u>Xinyi Wang</u>, Yujie Lu, Tsu-Jui Fu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
-
-  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2305.11317)\]
-
-* **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
-
-  <u>Xinyi Wang</u>, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
-
-  _Preprint 2023_ \[[paper](http://arxiv.org/abs/2301.11916)\]\[[code](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)\]
-
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
   Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
@@ -75,6 +51,24 @@ I am interested in understanding deep learning models, especially pre-trained la
   _Preprint 2022_ \[[paper](https://arxiv.org/abs/2211.12588)\]\[[code](https://github.com/wenhuchen/Program-of-Thoughts)\]
 
 ## Publications
+
+* **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**
+
+  Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
+
+  _Findings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.12295)\]\[[code](https://github.com/teacherpeterpan/Logic-LLM)\]
+
+* **TheoremQA: A Theorem-driven Question Answering dataset**
+
+  Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, <u>Xinyi Wang</u>, Pan Lu
+
+  _Proceedings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.12524)\]\[[code](https://github.com/wenhuchen/TheoremQA)\]
+
+* **Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation**
+
+  Wanrong Zhu, <u>Xinyi Wang</u>, Yujie Lu, Tsu-Jui Fu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
+
+  _Proceedings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.11317)\]
 
 * **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
