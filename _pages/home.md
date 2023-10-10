@@ -44,6 +44,12 @@ I am interested in understanding deep learning models, especially pre-trained la
 
 ## Preprints
 
+* **Guiding Language Model Reasoning with Planning Tokens**
+
+  <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni
+
+  _Preprint 2022_ \[[paper](https://arxiv.org/abs/2310.05707)\]
+
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
   Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
