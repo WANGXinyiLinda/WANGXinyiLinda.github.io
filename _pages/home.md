@@ -5,12 +5,15 @@ hidden: true
 author_profile: true
 ---
 
-I am Xinyi Wang (王心怡), a third-year PhD student in the computer science department at the University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I am interested in understanding deep learning models, especially pre-trained large language models, using principled causality-based/probabilistic approaches. My CV can be downloaded \[[here](pdf\CV.pdf)\].
+I am Xinyi Wang (王心怡), a forth-year computer science PhD student at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 
-*I'm working as a research intern at MSR Montreal for Summer 2023. Please feel free to reach out to me if you want to chat about research!*
+Before my PhD, I have worked on neural topic models with professor [Yi Yang](http://yya518.github.io/).
+I have recently worked with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) on causality, and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/) on reasoning as a research intern at MSR.
 
-<!-- *I'm actively looking for a 2023 summer research internship. Please feel free to reach out to me if you think I could be a fit!* -->
+My current research interest lies in understanding deep learning models, especially language models and other large pre-trained models.
+My CV can be downloaded [here](pdf\CV.pdf).
+
+*I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!*
 <!-- and I have also been working with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/).  -->
 <!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
 <!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
@@ -31,6 +34,7 @@ I am interested in understanding deep learning models, especially pre-trained la
   * Fall quater exchange
   <!-- * CGA: 3.90/4.00 (Dean's Honors List)  -->
   <!-- \[[transcript](/pdf/UCLA_transcript.pdf)\] -->
+
 
 ## Scholarships and Academic Honors
 
