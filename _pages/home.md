@@ -6,11 +6,7 @@ author_profile: true
 ---
 
 I am Xinyi Wang (王心怡), a forth-year computer science PhD student at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-
-Before my PhD, I have worked on neural topic models with professor [Yi Yang](http://yya518.github.io/).
-I have recently worked with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) on causality, and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/) on reasoning as a research intern at MSR.
-
-My current research interest lies in understanding deep learning models, especially language models and other large pre-trained models. I have collaborated with professor [Mark Steyvers](https://steyvers.socsci.uci.edu/) on this direction.
+I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Mark Steyvers](https://steyvers.socsci.uci.edu/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/).
 My CV can be downloaded [here](pdf\CV.pdf).
 
 *I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!*
