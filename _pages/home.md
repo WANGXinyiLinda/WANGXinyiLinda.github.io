@@ -137,7 +137,9 @@ My CV can be downloaded [here](pdf\CV.pdf).
 <sub><sup>* indiacts equal contribution</sup></sub>
 
 ## Talks
-* My Major area exam presentation in March 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\MAE_online.pdf)\] \[[updated slides (May 2023)](pdf\llms.pdf)\] 
+* My Major area exam presentation in March 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\MAE_online.pdf)\] 
+* Talk at Hong Kong University of Science and Technology: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\llms.pdf)\] 
+* Talk at Tsinghua University on October 19, 2023 and at Peking University on October 23, 2023: **Understanding and Improving Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\oct_talk.pdf)\]
 
 
 ## Services
