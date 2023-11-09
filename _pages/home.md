@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I am Xinyi Wang (王心怡), a forth-year computer science PhD student at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Mark Steyvers](https://steyvers.socsci.uci.edu/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). My current research interest lies in understanding deep learning models, especially language models and other large pre-trained models. 
+I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Mark Steyvers](https://steyvers.socsci.uci.edu/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). My current research interest lies in improving and making better use of foundation models by developing a principled understanding of them.
 My CV can be downloaded [here](pdf\CV.pdf).
 
 *I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!*
@@ -82,7 +82,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Proceedings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.11317)\]
 
-* **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**
+* **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
   <u>Xinyi Wang</u>, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
 
@@ -138,7 +138,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 ## Talks
 * My Major area exam presentation in March 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\MAE_online.pdf)\] 
-* Talk at Hong Kong University of Science and Technology: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\llms.pdf)\] 
+* Talk at Hong Kong University of Science and Technology in May 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\llms.pdf)\] 
 * Talk at Tsinghua University on October 19, 2023 and at Peking University on October 23, 2023: **Understanding and Improving Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\oct_talk.pdf)\]
 
 
