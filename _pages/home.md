@@ -56,13 +56,13 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Preprint 2023_ \[[paper](https://arxiv.org/abs/2308.03188)\]
 
+## Publications
+
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
   Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
 
-  _Preprint 2022_ \[[paper](https://arxiv.org/abs/2211.12588)\]\[[code](https://github.com/wenhuchen/Program-of-Thoughts)\]
-
-## Publications
+  _TMLR 2023_ \[[paper](https://arxiv.org/abs/2211.12588)\]\[[code](https://github.com/wenhuchen/Program-of-Thoughts)\]
 
 * **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**
 
@@ -137,12 +137,13 @@ My CV can be downloaded [here](pdf\CV.pdf).
 <sub><sup>* indiacts equal contribution</sup></sub>
 
 ## Talks
-* My Major area exam presentation in March 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\MAE_online.pdf)\] 
-* Talk at Hong Kong University of Science and Technology in May 2023: **Understanding Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\llms.pdf)\] 
-* Talk at Tsinghua University on October 19, 2023 and at Peking University on October 23, 2023: **Understanding and Improving Pre-trained Large Language Models through a Probabilistic Lens** \[[slides](pdf\oct_talk.pdf)\]
+* My Major area exam presentation in March 2023: \[[slides](pdf\MAE_online.pdf)\] 
+* Talk at Hong Kong University of Science and Technology in May 2023: \[[slides](pdf\llms.pdf)\] 
+* Talk at Tsinghua University on October 19, 2023 and at Peking University on October 23, 2023: \[[slides](pdf\oct_talk.pdf)\]
 
 
 ## Services
 * 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
 * 2022 Program Committee: AAAI
-* 2023 Program Committee: NeurIPS, AAAI, ICLR
+* 2023 Program Committee: NeurIPS, AAAI
+* 2024 Program Committee: ICLR, ICML
