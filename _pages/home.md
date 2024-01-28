@@ -5,7 +5,7 @@ hidden: true
 author_profile: true
 ---
 
-I am Xinyi Wang (王心怡), a forth-year computer science PhD student at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+I am Xinyi Wang (王心怡), a forth-year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Mark Steyvers](https://steyvers.socsci.uci.edu/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). My current research interest lies in improving and making better use of foundation models by developing a principled understanding of them.
 My CV can be downloaded [here](pdf\CV.pdf).
 
