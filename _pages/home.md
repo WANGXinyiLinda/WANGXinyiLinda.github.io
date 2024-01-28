@@ -32,7 +32,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
   <!-- \[[transcript](/pdf/UCLA_transcript.pdf)\] -->
 
 
-## Scholarships and Academic Honors
+<!-- ## Scholarships and Academic Honors
 
 * Chern Class Talent Scholarship (2017 - 2020) from HKUST Math department
 * Chern Class Achievement Scholarship (2020) from HKUST Math department
@@ -40,7 +40,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 * University’s Scholarship Scheme for Continuing Undergraduate Students (2017 - 2020) from HKUST
 * Reaching Out Award (2019 - 2020) from HKSAR Government Scholarship Fund
 * Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
-* Academic Excellence Fellowship (2020) from UCSB
+* Academic Excellence Fellowship (2020) from UCSB -->
 
 ## Preprints
 
@@ -50,13 +50,13 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Preprint 2023_ \[[paper](https://arxiv.org/abs/2310.05707)\]
 
+## Publications
+
 * **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**
 
   Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, <u>Xinyi Wang</u>, William Yang Wang
 
-  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2308.03188)\]
-
-## Publications
+  _TACL 2024_ \[[paper](https://arxiv.org/abs/2308.03188)\]
 
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
