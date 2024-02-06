@@ -44,6 +44,12 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 ## Preprints
 
+* **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
+
+  <u>Xinyi Wang</u>, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang 
+
+  _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.03268)\]
+
 * **Guiding Language Model Reasoning with Planning Tokens**
 
   <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni
