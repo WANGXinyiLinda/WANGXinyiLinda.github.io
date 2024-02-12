@@ -17,7 +17,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 <!-- \[[CV](/pdf/Resume.pdf)\]  -->
 
 ## Education 
-* **University of California, Santa Barbara**, Oct 2020 - Present
+* **University of California, Santa Barbara**, Oct 2020 - 2025 (expected)
   * Ph.D. in Computer Science
 
 * **Hong Kong University of Science and Technology**, Sep 2016 - Jul 2020
@@ -152,4 +152,4 @@ My CV can be downloaded [here](pdf\CV.pdf).
 * 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
 * 2022 Program Committee: AAAI
 * 2023 Program Committee: NeurIPS, AAAI
-* 2024 Program Committee: ICLR, ICML
+* 2024 Program Committee: ICLR, ICML, COLM
