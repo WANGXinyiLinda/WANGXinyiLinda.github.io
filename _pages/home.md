@@ -149,7 +149,4 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 
 ## Services
-* 2021 Program Committee: NeurIPS Datasets and Benchmarks Track
-* 2022 Program Committee: AAAI
-* 2023 Program Committee: NeurIPS, AAAI
-* 2024 Program Committee: ICLR, ICML, COLM
+* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023), ICLR (2024), ICML (2024), COLM (2024)
