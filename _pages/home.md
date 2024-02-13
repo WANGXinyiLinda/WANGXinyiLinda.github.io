@@ -56,7 +56,39 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Preprint 2023_ \[[paper](https://arxiv.org/abs/2310.05707)\]
 
-## Publications
+## First authored publications
+
+* **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**
+
+  <u>Xinyi Wang</u>, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
+
+  _Proceedings of NeurIPS 2023, New Orleans (poster)_ \[[paper](http://arxiv.org/abs/2301.11916)\]\[[code](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)\]
+
+* **Causal Balancing for Domain Generalization**
+
+  <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
+
+  _Proceedings of ICLR 2023, Rwanda (poster)_ \[[paper](https://arxiv.org/abs/2206.05263)\]\[[code](https://github.com/WANGXinyiLinda/causal-balancing-for-domain-generalization)\]
+
+* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** 
+
+  <u>Xinyi Wang</u>, Wenhu Chen, Michael Saxon, William Yang Wang 
+
+  _Proceedings of NeurIPS 2021, Virtual (poster)_ \[[paper](https://arxiv.org/abs/2106.03831)\]\[[code](https://github.com/WANGXinyiLinda/CMLE)\]
+
+* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** 
+
+  <u>Xinyi Wang</u>\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen 
+
+  _Proceedings of IJCNN 2021, Virtual (<span style="color:red">oral</span>)_ \[[paper](https://arxiv.org/abs/2106.08898)\]
+
+* **Neural Topic Model with Attention for Supervised Learning** 
+
+  <u>Xinyi Wang</u>, Yi Yang 
+
+   _Proceedings of AISTATS 2020, Virtual (poster)_ \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
+
+## Coauthored publications
 
 * **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**
 
@@ -88,18 +120,6 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Proceedings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.11317)\]
 
-* **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**
-
-  <u>Xinyi Wang</u>, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
-
-  _Proceedings of NeurIPS 2023, New Orleans (poster)_ \[[paper](http://arxiv.org/abs/2301.11916)\]\[[code](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)\]
-
-* **Causal Balancing for Domain Generalization**
-
-  <u>Xinyi Wang</u>, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang
-
-  _Proceedings of ICLR 2023, Rwanda (poster)_ \[[paper](https://arxiv.org/abs/2206.05263)\]\[[code](https://github.com/WANGXinyiLinda/causal-balancing-for-domain-generalization)\]
-
 * **PECO: Examining Single Sentence Label Leakage in Natural Language Inference Datasets through Progressive Evaluation of Cluster Outliers**
 
   Michael Saxon, <u>Xinyi Wang</u>, Wenda Xu, William Yang Wang
@@ -112,29 +132,11 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Proceedings of NeurIPS 2021 Datasets and Benchmarks Track, Virtual (poster)_ \[[paper](https://arxiv.org/abs/2108.06314)\]\[[code](https://github.com/wenhuchen/Time-Sensitive-QA)\]
 
-* **Counterfactual Maximum Likelihood Estimation for Training Deep Networks** 
-
-  <u>Xinyi Wang</u>, Wenhu Chen, Michael Saxon, William Yang Wang 
-
-  _Proceedings of NeurIPS 2021, Virtual (poster)_ \[[paper](https://arxiv.org/abs/2106.03831)\]\[[code](https://github.com/WANGXinyiLinda/CMLE)\]
-
 * **Modeling Discolsive Transparency in NLP Application Descriptions** 
 
   Michael Saxon, Sharon Levy, <u>Xinyi Wang</u>, Alon Albalak, William Yang Wang 
 
   _Proceedings of EMNLP 2021, Virtual (<span style="color:red">oral</span>)_ \[[paper](https://arxiv.org/abs/2101.00433)\]\[[code](https://github.com/michaelsaxon/disclosive-transparency)\]
-
-* **RefBERT: Compressing BERT by Referencing to Pre-computed Representations** 
-
-  <u>Xinyi Wang</u>\*, Haiqin Yang\*, Liang Zhao, Yang Mo and Jianping Shen 
-
-  _Proceedings of IJCNN 2021, Virtual (<span style="color:red">oral</span>)_ \[[paper](https://arxiv.org/abs/2106.08898)\]
-
-* **Neural Topic Model with Attention for Supervised Learning** 
-
-  <u>Xinyi Wang</u>, Yi Yang 
-
-   _Proceedings of AISTATS 2020, Virtual (poster)_ \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
 
 <!-- * **Direct Proof of the Formation of Droplet Surface Shape and the Principle of Minimizing Free Energy** (College Physics. Sep. 2020)
 
