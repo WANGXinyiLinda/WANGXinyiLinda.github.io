@@ -9,7 +9,7 @@ I am Xinyi Wang (王心怡), a forth-year computer science PhD candidate at Univ
 I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Mark Steyvers](https://steyvers.socsci.uci.edu/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). My current research interest lies in improving and making better use of foundation models by developing a principled understanding of them.
 My CV can be downloaded [here](pdf\CV.pdf).
 
-*I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!*
+<!-- *I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!* -->
 <!-- and I have also been working with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/).  -->
 <!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
 <!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
@@ -17,7 +17,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 <!-- \[[CV](/pdf/Resume.pdf)\]  -->
 
 ## Education 
-* **University of California, Santa Barbara**, Oct 2020 - 2025 (expected)
+* **University of California, Santa Barbara**, Oct 2020 - present
   * Ph.D. in Computer Science
 
 * **Hong Kong University of Science and Technology**, Sep 2016 - Jul 2020
