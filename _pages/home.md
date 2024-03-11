@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I am Xinyi Wang (王心怡), a forth-year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Mark Steyvers](https://steyvers.socsci.uci.edu/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). My current research interest lies in improving and making better use of foundation models by developing a principled understanding of them.
+I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). My current research interest lies in improving and making better use of foundation models by developing a principled understanding of them.
 My CV can be downloaded [here](pdf\CV.pdf).
 
 <!-- *I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!* -->
@@ -26,8 +26,8 @@ My CV can be downloaded [here](pdf\CV.pdf).
   <!-- \[[transcript](/pdf/HKUST_transcript.pdf)\] -->
   <!-- * Capstone Project Supervisor: Prof. Yuan, Yao  -->
 
-* **University of California, Los Angeles**, Sep 2019 - Dec 2019
-  * Fall quater exchange
+<!-- * **University of California, Los Angeles**, Sep 2019 - Dec 2019
+  * Fall quater exchange -->
   <!-- * CGA: 3.90/4.00 (Dean's Honors List)  -->
   <!-- \[[transcript](/pdf/UCLA_transcript.pdf)\] -->
 
@@ -144,10 +144,12 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 <sub><sup>* indiacts equal contribution</sup></sub>
 
+
 ## Talks
-* My Major area exam presentation in March 2023: \[[slides](pdf\MAE_online.pdf)\] 
+* My PhD major area exam presentation in March 2023: \[[slides](pdf\MAE_online.pdf)\] 
 * Talk at Hong Kong University of Science and Technology in May 2023: \[[slides](pdf\llms.pdf)\] 
 * Talk at Tsinghua University on October 19, 2023 and at Peking University on October 23, 2023: \[[slides](pdf\oct_talk.pdf)\]
+* My PhD proposal presentation in March 2024: \[[slides](pdf\proposal.pdf)\] 
 
 
 ## Services
