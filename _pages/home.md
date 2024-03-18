@@ -17,7 +17,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 <!-- \[[CV](/pdf/Resume.pdf)\]  -->
 
 ## Education 
-* **University of California, Santa Barbara**, Oct 2020 - present
+* **University of California, Santa Barbara**, Oct 2020 - Present
   * Ph.D. in Computer Science
 
 * **Hong Kong University of Science and Technology**, Sep 2016 - Jul 2020
@@ -44,9 +44,21 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 ## Preprints
 
+* **A Survey on Data Selection for Language Models**
+
+  Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, <u>Xinyi Wang</u>, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang
+
+  _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.16827)\]
+
 * **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
 
   <u>Xinyi Wang</u>, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang 
+
+  _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.03268)\]
+
+* **Tweets to Citations: Unveiling the Impact of Social Media Influencers on AI Research Visibility**
+
+  Iain Xie Weissburg, Mehir Arora, <u>Xinyi Wang</u>, Liangming Pan, William Yang Wang. 
 
   _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.03268)\]
 
@@ -153,4 +165,4 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 
 ## Services
-* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023), ICLR (2024), ICML (2024), COLM (2024)
+* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023), ICLR (2024), ICML (2024), COLM (2024), TPAMI(2024)
