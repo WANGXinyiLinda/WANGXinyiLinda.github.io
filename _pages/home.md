@@ -54,7 +54,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni
 
-  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2310.05707)\]
+  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
 
 ## First authored publications
 
@@ -62,7 +62,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   <u>Xinyi Wang</u>, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang 
 
-  _ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2402.03268)\]
+  _Proceedings of ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2402.03268)\]\[[code](https://github.com/WANGXinyiLinda/LM_random_walk)\]
 
 * **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
@@ -100,7 +100,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   Iain Xie Weissburg, Mehir Arora, <u>Xinyi Wang</u>, Liangming Pan, William Yang Wang. 
 
-  _ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2401.13782)\]
+  _Proceedings of ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2401.13782)\]
 
 * **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**
 
