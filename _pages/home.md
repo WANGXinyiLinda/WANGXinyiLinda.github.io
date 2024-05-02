@@ -50,18 +50,6 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.16827)\]
 
-* **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
-
-  <u>Xinyi Wang</u>, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang 
-
-  _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.03268)\]
-
-* **Tweets to Citations: Unveiling the Impact of Social Media Influencers on AI Research Visibility**
-
-  Iain Xie Weissburg, Mehir Arora, <u>Xinyi Wang</u>, Liangming Pan, William Yang Wang. 
-
-  _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.03268)\]
-
 * **Guiding Language Model Reasoning with Planning Tokens**
 
   <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni
@@ -69,6 +57,12 @@ My CV can be downloaded [here](pdf\CV.pdf).
   _Preprint 2023_ \[[paper](https://arxiv.org/abs/2310.05707)\]
 
 ## First authored publications
+
+* **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
+
+  <u>Xinyi Wang</u>, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang 
+
+  _ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2402.03268)\]
 
 * **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
@@ -101,6 +95,12 @@ My CV can be downloaded [here](pdf\CV.pdf).
    _Proceedings of AISTATS 2020, Virtual (poster)_ \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
 
 ## Coauthored publications
+
+* **Position Paper: Understanding the Role of Social Media Influencers in AI Research Visibility**
+
+  Iain Xie Weissburg, Mehir Arora, <u>Xinyi Wang</u>, Liangming Pan, William Yang Wang. 
+
+  _ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2401.13782)\]
 
 * **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**
 
