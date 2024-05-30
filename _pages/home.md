@@ -6,15 +6,11 @@ author_profile: true
 ---
 
 I am Xinyi Wang (王心怡), a forth-year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). My current research interest lies in improving and making better use of foundation models by developing a principled understanding of them.
+I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). I have interned at [MSR Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) in 2023. I'm interested in developing principled understandings of foundation models to improve and make better use of them.
 My CV can be downloaded [here](pdf\CV.pdf).
 
 <!-- *I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!* -->
-<!-- and I have also been working with professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/).  -->
-<!-- I graduated from the Hong Kong University of Science and Technology (HKUST) in 2020 with a B.Sc. in applied mathematics and computer science.  -->
-<!-- I was on exchange at the University of California, Los Angeles (UCLA) from September to December, 2019.  -->
-<!-- I also had the fortune to work with [Yi Yang](http://yya518.github.io/) and [Prof. Yuan Yao](https://yao-lab.github.io/).  -->
-<!-- \[[CV](/pdf/Resume.pdf)\]  -->
+*I'm going to intern at MIT-IBM Watson lab in Boston this summer. Feel free to reach out if you want to chat about research :)*
 
 ## Education 
 * **University of California, Santa Barbara**, Oct 2020 - Present
@@ -56,7 +52,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   _Preprint 2023_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
 
-## First authored publications
+## (Co)-First authored publications
 
 * **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
 
@@ -165,4 +161,4 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 
 ## Services
-* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023), ICLR (2024), ICML (2024), COLM (2024), TPAMI(2024)
+* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023,2024), ICLR (2024), ICML (2024), COLM (2024), TPAMI(2024)
