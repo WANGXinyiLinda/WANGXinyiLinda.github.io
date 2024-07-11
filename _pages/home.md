@@ -48,13 +48,13 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, William Yang Wang, Alessandro Sordoni
 
-  _Proceedings of COLM 2024_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
+  _Proceedings of COLM 2024, Philadelphia_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
 
 * **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
 
   <u>Xinyi Wang</u>, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang 
 
-  _Proceedings of ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2402.03268)\]\[[code](https://github.com/WANGXinyiLinda/LM_random_walk)\]
+  _Proceedings of ICML 2024, Vienna (poster)_ \[[paper](https://arxiv.org/abs/2402.03268)\]\[[code](https://github.com/WANGXinyiLinda/LM_random_walk)\]
 
 * **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
