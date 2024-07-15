@@ -7,7 +7,7 @@ author_profile: true
 
 I am Xinyi Wang (王心怡), a forth-year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/). I have interned at [MSR Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) in 2023. 
-I'm honored to be awarded the JPMC 2024 PhD Fellowship.
+<!-- I'm honored to be awarded the JPMC 2024 PhD Fellowship -->
 My research interest lies in developing principled understandings of foundation models to improve and make better use of them.
 My CV can be downloaded [here](pdf\CV.pdf).
 
