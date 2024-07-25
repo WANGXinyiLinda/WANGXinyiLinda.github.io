@@ -40,7 +40,15 @@ My CV can be downloaded [here](pdf\CV.pdf).
 * Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
 * Academic Excellence Fellowship (2020) from UCSB -->
 
-<!-- ## Preprints -->
+> \* indiacts equal contribution
+
+## Preprints
+
+* **Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data**
+
+  Antonis Antoniades\*, <u>Xinyi Wang</u>\*, Yanai Elazar, Alfonso Amayuelas, Alon Albalak, Kexun Zhang, William Yang Wang
+
+  _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2407.14985)\]
 
 ## (Co)-First authored publications
 
