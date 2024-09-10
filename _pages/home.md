@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 I am Xinyi Wang (王心怡), a forth-year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/). I have interned at [MSR Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) in 2023 summer, and [MIT-IBM Watson lab](https://mitibmwatsonailab.mit.edu/) in 2024 summer. I'm interested in developing principled understandings of foundation models to improve and make better use of them.
+I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/). I have interned at [MSR Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) in 2023 summer, and [MIT-IBM Watson lab](https://mitibmwatsonailab.mit.edu/) in 2024 summer. 
+I'm honored to be awarded a J.P. Morgan AI PhD Fellowship.
+My research interest lies in developing principled understandings of foundation models to improve and make better use of them.
 My CV can be downloaded [here](pdf\CV.pdf).
 
 <!-- *I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!* -->
@@ -37,27 +39,29 @@ My CV can be downloaded [here](pdf\CV.pdf).
 * Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
 * Academic Excellence Fellowship (2020) from UCSB -->
 
+> \* indiacts equal contribution
+
 ## Preprints
 
-* **A Survey on Data Selection for Language Models**
+* **Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data**
 
-  Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, <u>Xinyi Wang</u>, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang
+  Antonis Antoniades\*, <u>Xinyi Wang</u>\*, Yanai Elazar, Alfonso Amayuelas, Alon Albalak, Kexun Zhang, William Yang Wang
 
-  _Preprint 2024_ \[[paper](https://arxiv.org/abs/2402.16827)\]
-
-* **Guiding Language Model Reasoning with Planning Tokens**
-
-  <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, Alessandro Sordoni
-
-  _Preprint 2023_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
+  _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2407.14985)\]
 
 ## (Co)-First authored publications
+
+* **Guiding Language Model Math Reasoning with Planning Tokens**
+
+  <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, William Yang Wang, Alessandro Sordoni
+
+  _Proceedings of COLM 2024, Philadelphia_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
 
 * **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
 
   <u>Xinyi Wang</u>, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang 
 
-  _Proceedings of ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2402.03268)\]\[[code](https://github.com/WANGXinyiLinda/LM_random_walk)\]
+  _Proceedings of ICML 2024, Vienna (poster)_ \[[paper](https://arxiv.org/abs/2402.03268)\]\[[code](https://github.com/WANGXinyiLinda/LM_random_walk)\]
 
 * **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**
 
@@ -90,6 +94,12 @@ My CV can be downloaded [here](pdf\CV.pdf).
    _Proceedings of AISTATS 2020, Virtual (poster)_ \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
 
 ## Coauthored publications
+
+* **A Survey on Data Selection for Language Models**
+
+  Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, <u>Xinyi Wang</u>, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang
+
+  _TMLR 2024_ \[[paper](https://arxiv.org/abs/2402.16827)\]
 
 * **Position Paper: Understanding the Role of Social Media Influencers in AI Research Visibility**
 
