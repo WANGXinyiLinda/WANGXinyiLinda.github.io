@@ -5,13 +5,15 @@ hidden: true
 author_profile: true
 ---
 
-I am Xinyi Wang (王心怡), a forth-year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+I am Xinyi Wang (王心怡), a final year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/). I have interned at [MSR Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) in 2023 summer, and [MIT-IBM Watson lab](https://mitibmwatsonailab.mit.edu/) in 2024 summer. 
 I'm honored to be awarded a J.P. Morgan AI PhD Fellowship.
-My research interest lies in developing principled understandings of foundation models to improve and make better use of them.
+My research focuses on developing a principled understanding of foundation models, with the goal of improving their capabilities and optimizing their application across diverse domains.
 My CV can be downloaded [here](pdf\CV.pdf).
 
-<!-- *I'm actively looking for a 2024 summer research internship. Please feel free to reach out to me if you think I could be a good fit!* -->
+*I'm attending COLM 2024. Please feel free to reach out to me if you want to chat :)*
+
+<!-- *I'm on the job market right now. Please feel free to reach out to me if you think I could be a good fit!* -->
 
 ## Education 
 * **University of California, Santa Barbara**, Oct 2020 - Present
