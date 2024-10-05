@@ -47,7 +47,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 * **Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data**
 
-  Antonis Antoniades\*, <u>Xinyi Wang</u>\*, Yanai Elazar, Alfonso Amayuelas, Alon Albalak, Kexun Zhang, William Yang Wang
+  <u>Xinyi Wang</u>\*, Antonis Antoniades\*, Yanai Elazar, Alfonso Amayuelas, Alon Albalak, Kexun Zhang, William Yang Wang
 
   _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2407.14985)\]
 
@@ -96,6 +96,12 @@ My CV can be downloaded [here](pdf\CV.pdf).
    _Proceedings of AISTATS 2020, Virtual (poster)_ \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
 
 ## Coauthored publications
+
+* **T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback**
+
+  Jiachen Li, Weixi Feng, Tsu-Jui Fu, <u>Xinyi Wang</u>, Sugato Basu, Wenhu Chen, William Yang Wang
+
+  _Proceedings of NeurIPS 2024, Vancouver_ \[[paper](https://arxiv.org/abs/2405.18750)\]
 
 * **A Survey on Data Selection for Language Models**
 
