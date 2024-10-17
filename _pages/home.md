@@ -8,7 +8,7 @@ author_profile: true
 I am Xinyi Wang (王心怡), a final year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/). I have interned at [MSR Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) in 2023 summer, and [MIT-IBM Watson lab](https://mitibmwatsonailab.mit.edu/) in 2024 summer. 
 I'm honored to be awarded a J.P. Morgan AI PhD Fellowship.
-My research focuses on developing a principled understanding of foundation models, with the goal of improving their capabilities and optimizing their application across diverse domains.
+My research focuses on developing a principled understanding of deep learning models, especially large language models, with the goal of improving their capabilities, addressing their limitations, and optimizing their application across diverse domains.
 My CV can be downloaded [here](pdf\CV.pdf).
 
 *I'm attending COLM 2024. Please feel free to reach out to me if you want to chat :)*
@@ -50,6 +50,18 @@ My CV can be downloaded [here](pdf\CV.pdf).
   <u>Xinyi Wang</u>\*, Antonis Antoniades\*, Yanai Elazar, Alfonso Amayuelas, Alon Albalak, Kexun Zhang, William Yang Wang
 
   _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2407.14985)\]
+
+* **Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement**
+
+  Xunjian Yin, <u>Xinyi Wang</u>, Liangming Pan, Xiaojun Wan, William Yang Wang
+
+  _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2410.04444)\]
+
+* **Understanding the Interplay between Parametric and Contextual Knowledge for Large Language Models**
+
+  Sitao Cheng, Liangming Pan, Xunjian Yin, <u>Xinyi Wang</u>, William Yang Wang
+
+  _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2410.08414)\]
 
 ## (Co)-First authored publications
 
