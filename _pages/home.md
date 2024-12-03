@@ -41,7 +41,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 * Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
 * Academic Excellence Fellowship (2020) from UCSB -->
 
-> \* indiacts equal contribution
+> \* indicates equal contribution
 
 ## Preprints
 
@@ -190,4 +190,4 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 
 ## Services
-* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023,2024), ICLR (2024), ICML (2024), COLM (2024), TPAMI(2024)
+* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023,2024), ICLR (2024, 2025), ICML (2024), COLM (2024), AISTATS (2025), TPAMI(2024)
