@@ -191,3 +191,4 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 ## Services
 * Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023,2024), ICLR (2024, 2025), ICML (2024), COLM (2024), AISTATS (2025), TPAMI(2024)
+* ICLR 2025 Open Science for Foundation Models Workshop organizer
