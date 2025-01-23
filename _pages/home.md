@@ -63,7 +63,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   <u>Xinyi Wang</u>\*, Antonis Antoniades\*, Yanai Elazar, Alfonso Amayuelas, Alon Albalak, Kexun Zhang, William Yang Wang
 
-  _ICLR 2025_ \[[paper](https://arxiv.org/abs/2407.14985)\]
+  _Proceedings of ICLR 2025, Singapore_ \[[paper](https://arxiv.org/abs/2407.14985)\]
 
 * **Guiding Language Model Math Reasoning with Planning Tokens**
 
