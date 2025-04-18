@@ -6,21 +6,23 @@ author_profile: true
 ---
 
 I am Xinyi Wang (王心怡), a final year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/). I have interned at [MSR Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) in 2023 summer, and [MIT-IBM Watson lab](https://mitibmwatsonailab.mit.edu/) in 2024 summer. 
-I'm honored to be awarded a **J.P. Morgan AI PhD Fellowship**.
-My research focuses on developing a principled understanding of deep learning models, especially large language models, with the goal of improving their capabilities, addressing their limitations, and optimizing their application across diverse domains.
+I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/). 
+I'm honored to be awarded a J.P. Morgan AI PhD Fellowship and a UCSB Computer Science Outstanding Publication Award.
+My research focuses on developing a principled understanding of large foundation models, especially LLMs, with the goal of improving their capabilities, addressing their limitations, and optimizing their application across diverse domains.
 My CV can be downloaded [here](pdf\CV.pdf). 
 
-<!-- *I'm attending COLM 2024. Please feel free to reach out to me if you want to chat :)* -->
+[<span style="color:red">News</span>] I'm joining [Princeton Language and Intelligence](https://pli.princeton.edu/) as a a Postdoctral Researcher in July 2025.
 
-*I'm on the job market right now. My research statement can be found [here](pdf\research_statement.pdf). Please feel free to reach out to me if you think I could be a good fit!*
+[<span style="color:red">News</span>] I will join the CSE department at [University at Buffalo, SUNY](https://engineering.buffalo.edu/computer-science-engineering.html) in 2026 Fall as an Assistant Professor and I'm recruiting PhD students in the upcoming cycle. 
 
-## Education 
-* **University of California, Santa Barbara**, Oct 2020 - Present
+*I'm attending ICLR 2025. Please feel free to reach out to me if you want to chat :)*
+
+<!-- ## Education 
+* **University of California, Santa Barbara**, Oct 2020 - 2025 June
   * Ph.D. in Computer Science
 
 * **Hong Kong University of Science and Technology**, Sep 2016 - Jul 2020
-  * B.Sc. in Applied Mathematics and Computer Science
+  * B.Sc. in Applied Mathematics and Computer Science -->
   <!-- * CGA: 3.74/4.30  -->
   <!-- \[[transcript](/pdf/HKUST_transcript.pdf)\] -->
   <!-- * Capstone Project Supervisor: Prof. Yuan, Yao  -->
@@ -31,19 +33,15 @@ My CV can be downloaded [here](pdf\CV.pdf).
   <!-- \[[transcript](/pdf/UCLA_transcript.pdf)\] -->
 
 
-<!-- ## Scholarships and Academic Honors
-
-* Chern Class Talent Scholarship (2017 - 2020) from HKUST Math department
-* Chern Class Achievement Scholarship (2020) from HKUST Math department
-* The 15th Epsilon Fund Award (2020) from HKUST Math department
-* University’s Scholarship Scheme for Continuing Undergraduate Students (2017 - 2020) from HKUST
-* Reaching Out Award (2019 - 2020) from HKSAR Government Scholarship Fund
-* Joseph Needham Merit Scholarship (2020) from the Joseph Needham Foundation for Science & Civilisation (Hong Kong) 
-* Academic Excellence Fellowship (2020) from UCSB -->
-
 > \* indicates equal contribution
 
 ## Preprints
+
+* **Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**
+
+  <u>Xinyi Wang</u>  , Shawn Tan, Mingyu Jin, William Yang Wang, Rameswar Panda, Yikang Shen
+
+  _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2504.03635)\]
 
 * **Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement**
 
@@ -63,13 +61,13 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   <u>Xinyi Wang</u>\*, Antonis Antoniades\*, Yanai Elazar, Alfonso Amayuelas, Alon Albalak, Kexun Zhang, William Yang Wang
 
-  _Proceedings of ICLR 2025, Singapore_ \[[paper](https://arxiv.org/abs/2407.14985)\]
+  _Proceedings of ICLR 2025, Singapore (poster)_ \[[paper](https://arxiv.org/abs/2407.14985)\]\[[code](https://github.com/a-antoniades/llm-corpus-search)\]
 
 * **Guiding Language Model Math Reasoning with Planning Tokens**
 
   <u>Xinyi Wang</u>, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, William Yang Wang, Alessandro Sordoni
 
-  _Proceedings of COLM 2024, Philadelphia_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
+  _Proceedings of COLM 2024, Philadelphia (poster)_ \[[paper](https://arxiv.org/abs/2310.05707)\]\[[code](https://github.com/WANGXinyiLinda/planning_tokens)\]
 
 * **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**
 
@@ -113,55 +111,55 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
   Jiachen Li, Weixi Feng, Tsu-Jui Fu, <u>Xinyi Wang</u>, Sugato Basu, Wenhu Chen, William Yang Wang
 
-  _Proceedings of NeurIPS 2024, Vancouver_ \[[paper](https://arxiv.org/abs/2405.18750)\]
+  _Proceedings of NeurIPS 2024, Vancouver (poster)_ \[[paper](https://arxiv.org/abs/2405.18750)\]\[[project](https://t2v-turbo.github.io/)\]
 
 * **A Survey on Data Selection for Language Models**
 
   Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, <u>Xinyi Wang</u>, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang
 
-  _TMLR 2024_ \[[paper](https://arxiv.org/abs/2402.16827)\]
+  _TMLR 2024_ \[[paper](https://arxiv.org/abs/2402.16827)\]\[[code](https://github.com/alon-albalak/data-selection-survey)\]
 
-* **Position Paper: Understanding the Role of Social Media Influencers in AI Research Visibility**
+* **Position: AI/ML Influencers Have a Place in the Academic Process**
 
   Iain Xie Weissburg, Mehir Arora, <u>Xinyi Wang</u>, Liangming Pan, William Yang Wang. 
 
-  _Proceedings of ICML 2024, Vienna_ \[[paper](https://arxiv.org/abs/2401.13782)\]
+  _Proceedings of ICML 2024, Vienna (poster)_ \[[paper](https://arxiv.org/abs/2401.13782)\]
 
 * **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**
 
   Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, <u>Xinyi Wang</u>, William Yang Wang
 
-  _TACL 2024_ \[[paper](https://arxiv.org/abs/2308.03188)\]
+  _TACL 2024_ \[[paper](https://arxiv.org/abs/2308.03188)\]\[[code](https://github.com/teacherpeterpan/self-correction-llm-papers)\]
 
 * **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**
 
   Wenhu Chen, Xueguang Ma, <u>Xinyi Wang</u>, William W. Cohen
 
-  _TMLR 2023_ \[[paper](https://arxiv.org/abs/2211.12588)\]\[[code](https://github.com/wenhuchen/Program-of-Thoughts)\]
+  _TMLR 2023 (poster)_ \[[paper](https://arxiv.org/abs/2211.12588)\]\[[code](https://github.com/wenhuchen/Program-of-Thoughts)\]
 
 * **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**
 
   Liangming Pan, Alon Albalak, <u>Xinyi Wang</u>, William Yang Wang
 
-  _Findings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.12295)\]\[[code](https://github.com/teacherpeterpan/Logic-LLM)\]
+  _Findings of EMNLP 2023, Singapore (poster)_ \[[paper](https://arxiv.org/abs/2305.12295)\]\[[code](https://github.com/teacherpeterpan/Logic-LLM)\]
 
 * **TheoremQA: A Theorem-driven Question Answering dataset**
 
   Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, <u>Xinyi Wang</u>, Pan Lu
 
-  _Proceedings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.12524)\]\[[code](https://github.com/wenhuchen/TheoremQA)\]
+  _Proceedings of EMNLP 2023, Singapore (poster)_ \[[paper](https://arxiv.org/abs/2305.12524)\]\[[code](https://github.com/wenhuchen/TheoremQA)\]
 
 * **Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation**
 
   Wanrong Zhu, <u>Xinyi Wang</u>, Yujie Lu, Tsu-Jui Fu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
 
-  _Proceedings of EMNLP 2023, Singapore_ \[[paper](https://arxiv.org/abs/2305.11317)\]
+  _Proceedings of EMNLP 2023, Singapore (poster)_ \[[paper](https://arxiv.org/abs/2305.11317)\]
 
 * **PECO: Examining Single Sentence Label Leakage in Natural Language Inference Datasets through Progressive Evaluation of Cluster Outliers**
 
   Michael Saxon, <u>Xinyi Wang</u>, Wenda Xu, William Yang Wang
   
-  _Proceedings of EACL 2023, Croatia_ \[[paper](https://arxiv.org/abs/2112.09237)\]\[[code](https://github.com/michaelsaxon/DatasetAnalysis)\]
+  _Proceedings of EACL 2023, Croatia (poster)_ \[[paper](https://arxiv.org/abs/2112.09237)\]\[[code](https://github.com/michaelsaxon/DatasetAnalysis)\]
 
 * **A Dataset for Answering Time-Sensitive Questions** 
 
