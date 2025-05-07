@@ -15,7 +15,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 [<span style="color:red">News</span>] I will join the CSE department at [University at Buffalo, SUNY](https://engineering.buffalo.edu/computer-science-engineering.html) in 2026 Fall as an Assistant Professor and I'm recruiting PhD students in the upcoming cycle. 
 
-*I'm attending ICLR 2025. Please feel free to reach out to me if you want to chat :)*
+<!-- *I'm attending ICLR 2025. Please feel free to reach out to me if you want to chat :)* -->
 
 <!-- ## Education 
 * **University of California, Santa Barbara**, Oct 2020 - 2025 June
