@@ -5,15 +5,16 @@ hidden: true
 author_profile: true
 ---
 
-I am Xinyi Wang (王心怡), a final year computer science PhD candidate at University of California, Santa Barbara (UCSB). I am advised by professor [William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
-I have also worked with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/). 
-I'm honored to be awarded a J.P. Morgan AI PhD Fellowship and a UCSB Computer Science Outstanding Publication Award.
-My research focuses on developing a principled understanding of large foundation models, especially LLMs, with the goal of improving their capabilities, addressing their limitations, and optimizing their application across diverse domains.
-My CV can be downloaded [here](pdf\CV.pdf). 
+I am Xinyi Wang (王心怡), an incoming Postdoctoral Researcher at the [Princeton Language and Intelligence Lab](https://pli.princeton.edu/).  
+I recently defended my Ph.D. at the [University of California, Santa Barbara (UCSB)](https://www.cs.ucsb.edu/), where I was advised by [Professor William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+In addition, I have had the opportunity to collaborate with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/).
+I am honored to have received the **J.P. Morgan AI Ph.D. Fellowship** and the **UCSB Computer Science Outstanding Publication Award**.
 
-[<span style="color:red">News</span>] I'm joining [Princeton Language and Intelligence](https://pli.princeton.edu/) as a a Postdoctral Researcher in July 2025.
+My research centers on developing a principled understanding of large foundation models—particularly large language models (LLMs)—with the aim of enhancing their capabilities, addressing their limitations, and optimizing their deployment across diverse applications.
 
-[<span style="color:red">News</span>] I will join the CSE department at [University at Buffalo, SUNY](https://engineering.buffalo.edu/computer-science-engineering.html) in 2026 Fall as an Assistant Professor and I'm recruiting PhD students in the upcoming cycle. 
+You can download my CV [here](pdf/CV.pdf).
+
+<span style="color:red">News</span>: I will join the CSE department at [University at Buffalo, SUNY](https://engineering.buffalo.edu/computer-science-engineering.html) in 2026 Fall as an Assistant Professor. I'm recruiting PhD students in the upcoming cycle. 
 
 <!-- *I'm attending ICLR 2025. Please feel free to reach out to me if you want to chat :)* -->
 
@@ -33,9 +34,8 @@ My CV can be downloaded [here](pdf\CV.pdf).
   <!-- \[[transcript](/pdf/UCLA_transcript.pdf)\] -->
 
 
-> \* indicates equal contribution
-
 ## Preprints
+> \* indicates equal contribution
 
 * **Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**
 
@@ -56,6 +56,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
   _Arxiv Preprint_ \[[paper](https://arxiv.org/abs/2410.08414)\]
 
 ## (Co)-First authored publications
+> \* indicates equal contribution
 
 * **Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data**
 
@@ -106,6 +107,7 @@ My CV can be downloaded [here](pdf\CV.pdf).
    _Proceedings of AISTATS 2020, Virtual (poster)_ \[[paper](http://proceedings.mlr.press/v108/wang20c.html)\]\[[code](https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning)\]
 
 ## Coauthored publications
+> \* indicates equal contribution
 
 * **T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback**
 
@@ -188,5 +190,5 @@ My CV can be downloaded [here](pdf\CV.pdf).
 
 
 ## Services
-* Reviewer: NeurIPS Datasets and Benchmarks Track (2021), AAAI (2022, 2023), NeurIPS (2023,2024), ICLR (2024, 2025), ICML (2024), COLM (2024), AISTATS (2025), TPAMI(2024)
-* ICLR 2025 Open Science for Foundation Models Workshop organizer
+* Reviewer: NeurIPS, AAAI, NeurIPS, ICLR, ICML, COLM, AISTATS, TPAMI, TMLR
+* Organizer: ICLR 2025 Open Science for Foundation Models Workshop 
