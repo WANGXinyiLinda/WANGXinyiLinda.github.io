@@ -5,13 +5,10 @@ hidden: true
 author_profile: true
 ---
 
-I am Xinyi Wang (王心怡), an incoming Postdoctoral Researcher at the [Princeton Language and Intelligence Lab](https://pli.princeton.edu/).  
-I recently defended my Ph.D. at the [University of California, Santa Barbara (UCSB)](https://www.cs.ucsb.edu/), where I was advised by [Professor William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
+I am Xinyi Wang (王心怡), an incoming Postdoctoral Researcher at the [Princeton Language and Intelligence Lab](https://pli.princeton.edu/). I recently defended my Ph.D. at the [University of California, Santa Barbara (UCSB)](https://www.cs.ucsb.edu/), where I was advised by [Professor William Yang Wang](https://sites.cs.ucsb.edu/~william/index.html).
 In addition, I have had the opportunity to collaborate with [Yi Yang](http://yya518.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/), [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/), [Yikang Shen](https://scholar.google.com.hk/citations?user=qff5rRYAAAAJ), and [Rameswar Pandas](https://rpand002.github.io/).
 I am honored to have received the **J.P. Morgan AI Ph.D. Fellowship** and the **UCSB Computer Science Outstanding Publication Award**.
-
 My research centers on developing a principled understanding of large foundation models—particularly large language models (LLMs)—with the aim of enhancing their capabilities, addressing their limitations, and optimizing their deployment across diverse applications.
-
 You can download my CV [here](pdf/CV.pdf).
 
 <span style="color:red">News</span>: I will join the CSE department at [University at Buffalo, SUNY](https://engineering.buffalo.edu/computer-science-engineering.html) in 2026 Fall as an Assistant Professor. I'm recruiting PhD students in the upcoming cycle. 
